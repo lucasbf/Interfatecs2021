@@ -7,3 +7,7 @@ A Maratona de Programação InterFatecs é a 2a. maior competição de programa�
 Nesta 10e. edição tivemos 120 equipes distribuídas por todas as Fatecs (Faculdade de Tecnologia da Estado de São Paulo).
 
 Neste repositório temos os problemas que foram propostos pela comissão, denominada _Problem Set_.
+
+Maiores informações em <interfatecs.com.br>
+
+Este repo está arquivado.
